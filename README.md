@@ -13,6 +13,7 @@ https://financialmodelingprep.com/developer/docs/
 ### <u>Presentation</u>
 
 Click on this link to access the presentation slides.
+
 https://prezi.com/or4sifdx7mdx/?utm_campaign=share&utm_medium=copy
 
 ### <u>Summary</u>
@@ -40,9 +41,9 @@ Long-term investors using the buy & hold strategy can wait out the crisis. The m
 
 Using a new financial library called Backtrader, we have found that investors can use the small moving averages cross-over strategy, to gauge a good time to buy/sell. When the shorter-term MA crosses above the longer-term MA, it's a buy signal, as it indicates that the trend is shifting up. This is known as a "golden cross." Meanwhile, when the shorter-term MA crosses below the longer-term MA, it's a sell signal, as it indicates that the trend is shifting down. This is known as a "dead/death cross."
 
-For example, below is the graph for the Walmart stock price. You can see there is a buy signal around April 1st, 2020 and a sell signal near June 1st, 2020.
+For example, below is the graph for the SPY index. You can see there is a buy signal around April 1st, 2020 and a sell signal coming up in the near future.
 
-![Backtrader](Images/Walmart.PNG)
+![Backtrader](Images/SPY.PNG)
 
 Please refer to the Jupyter Notebook and the Pyviz Dashboard for the complete set of images and graphs related to our project.
 
