@@ -30,9 +30,9 @@ As per our findings, Monte Carlo simulations are pretty accurate. Due to COVID-1
 ![Walmart](Images/WalmartMC.PNG)
 
 
-* What is the best strategy for investors who have money in the market right now? 
+* What was the best strategy for investors who had money in the market during the crisis? 
 
-Long-term investors using the buy & hold strategy shouldn't be worried. The market seems to have recovered since the initial slump in Mar/Apr.
+Long-term investors using the buy & hold strategy can wait out the crisis. The market seems to have already recovered since the initial slump in Mar/Apr.
 
 ![Buy & Hold](Images/BuynHold.PNG)
 
