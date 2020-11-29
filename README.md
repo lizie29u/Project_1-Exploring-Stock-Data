@@ -4,7 +4,8 @@
 
 ### Requirements
 
-### <u>Libraries</u>
+ <u>Libraries</u>
+ 
 Please install the following libraries before running the Jupyter Notebook named Project_1.
 * Alpaca Trade Api *[pip install alpaca-trade-api]*
 * Yahoo Finance *[pip install yahoo-finance]*
