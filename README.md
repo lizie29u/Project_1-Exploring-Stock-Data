@@ -1,13 +1,20 @@
 # Project 1
 ## Group #4 - Bailey Cameron, Daphene Lobo, Elizabeth Morris, Veldurai Lakshmanan
 
-### <u>Installation Instructions</u>
+
+### Requirements
+
+### <u>Libraries</u>
 Please install the following libraries before running the Jupyter Notebook named Project_1.
 * Alpaca Trade Api *[pip install alpaca-trade-api]*
 * Yahoo Finance *[pip install yahoo-finance]*
 * Backtrader *[pip install backtrader]*
 
-You will also be needing your Aplaca API keys as well as an API key for the Financial Modeling Prep API.
+<u>APIs</u>
+
+The following API keys will be required:
+* Aplaca API keys 
+* Financial Modeling Prep API.
 https://financialmodelingprep.com/developer/docs/
 
 ### <u>Presentation</u>
