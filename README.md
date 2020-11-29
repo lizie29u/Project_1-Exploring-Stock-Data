@@ -2,10 +2,10 @@
 ## Group #4 - Bailey Cameron, Daphene Lobo, Elizabeth Morris, Veldurai Lakshmanan
 
 
-### Requirements
+## Requirements
 
  <u>Libraries</u>
- 
+
 Please install the following libraries before running the Jupyter Notebook named Project_1.
 * Alpaca Trade Api *[pip install alpaca-trade-api]*
 * Yahoo Finance *[pip install yahoo-finance]*
@@ -17,6 +17,11 @@ The following API keys will be required:
 * Aplaca API keys 
 * Financial Modeling Prep API.
 https://financialmodelingprep.com/developer/docs/
+
+
+## Data Prepapration
+Using Alpaca API we retrieved hiostorical data for the 4 stocks using their ticker symbols. We dropped all unnecessary columns leaving just "close", then  dropped all null values.
+
 
 ### <u>Presentation</u>
 
@@ -45,7 +50,7 @@ Long-term investors using the buy & hold strategy can wait out the crisis. The m
 
 ![Buy & Hold](Images/BuynHold.PNG)
 
-* If an investor is looking to enter the market, are there any buy/sell signals, they should be aware of?
+* If an investor is looking to enter the market, are there any buy/selal signals, they should be aware of?
 
 Using a new financial library called Backtrader, we have found that investors can use the small moving averages cross-over strategy, to gauge a good time to buy/sell. When the shorter-term MA crosses above the longer-term MA, it's a buy signal, as it indicates that the trend is shifting up. This is known as a "golden cross." Meanwhile, when the shorter-term MA crosses below the longer-term MA, it's a sell signal, as it indicates that the trend is shifting down. This is known as a "dead/death cross."
 
