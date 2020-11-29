@@ -19,7 +19,7 @@ The following API keys will be required:
 https://financialmodelingprep.com/developer/docs/
 
 
-## Data Prepapration
+## Data Preparation
 Using Alpaca API we retrieved hiostorical data for the 4 stocks using their ticker symbols. We dropped all unnecessary columns leaving just "close", then  dropped all null values.
 
 
